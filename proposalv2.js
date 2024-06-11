@@ -38,7 +38,7 @@ const bbtt12 = document.getElementById('bbtt12');
 //IMAGESSSSSS///////
 
 const hands = document.getElementById('hands');
-const sadcat = document.getElementById('sadcat');
+const sadcat = document.getElementById('sadcat1');
 const crying = document.getElementById('crying');
 const sadboi = document.getElementById('sadboi');
 const sadman  = document.getElementById('sadman');
